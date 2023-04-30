@@ -33,3 +33,8 @@ Easy to Customize
 
 ## User-Friendly Interface
 One of the key benefits of Easy flow to the future is its user-friendly interface, which is designed to be easy to use even for customers who are not tech-savvy. The website and mobile app are both intuitive and easy to navigate, with clear instructions and helpful prompts to guide users through the various features and services. This makes it easy for customers to manage their finances without feeling overwhelmed or confused by the technology.
+
+## AZURE TECHNOLOGIES USED
+1. Static web apps
+2. Web apps
+
