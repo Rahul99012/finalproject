@@ -1,5 +1,5 @@
 # finalproject
-
+## Note : This project is only presented to Future Ready Talent for the project submission.
 ## Easy Flow To The Future
 Connecting all the banking needs at one place. Which can make internet like a new experience to the old users as well as new users.
 
