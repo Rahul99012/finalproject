@@ -38,3 +38,13 @@ One of the key benefits of Easy flow to the future is its user-friendly interfac
 1. Static web apps
 2. Web apps
 
+## Langages Used 
+
+CSS
+65.5%
+ 
+JavaScript
+21.7%
+ 
+HTML
+12.8%
