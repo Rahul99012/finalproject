@@ -5,6 +5,7 @@
 **Connecting all the banking needs at one place. Which can make internet like a new experience to the old users as well as new users.
 
 This is my final FRT project demo link : https://calm-dune-02044e610.3.azurestaticapps.net
+
 here is the demo video link of the project : https://www.veed.io/view/e1f04c9e-b04c-4226-88f4-64370a604bcd?sharingWidget=true&panel=
 
 ## Homescreen Screenshot:
