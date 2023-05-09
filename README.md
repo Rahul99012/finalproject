@@ -45,6 +45,7 @@ One of the key benefits of Easy flow to the future is its user-friendly interfac
 ## AZURE TECHNOLOGIES USED
 1. Static web apps
 2. Web apps
+3. Azure Chat Bot
 
 ## Langages Used 
 
