@@ -6,6 +6,11 @@
 
 This is my final FRT project demo link : https://calm-dune-02044e610.3.azurestaticapps.net
 
+Here is the updated version of the project where i have added a chatbot
+![Screenshot 2023-05-09 193643](https://github.com/Rahul99012/finalproject/assets/124879425/aa55ac69-226d-42e1-9533-0248a5019a5d)
+![Screenshot 2023-05-09 193613](https://github.com/Rahul99012/finalproject/assets/124879425/6611abe4-3fb2-4bfb-890a-2e3696e1f160)
+
+
 here is the demo video link of the project : https://www.veed.io/view/e1f04c9e-b04c-4226-88f4-64370a604bcd?sharingWidget=true&panel=
 
 ## Homescreen Screenshot:
